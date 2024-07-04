@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  /* background-image: linear-gradient(rgba(234, 214, 230, 0.8),#717075);  */
+  background-color: azure;
+  font-family: 'poppins';
+}
